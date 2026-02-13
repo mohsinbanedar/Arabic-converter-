@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Arabic Listener</string>
+    <string name="accessibility_service_description">Detects Arabic text and stores translated notes in real time.</string>
+</resources>
